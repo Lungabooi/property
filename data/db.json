@@ -1,0 +1,39 @@
+{
+    "properties":[
+        {
+            "title": "Modern Apartment",
+            "img": "https://i.postimg.cc/VNgWjg9X/house1.jpg",
+             "Area": "Cape Town", 
+             "bedrooms": "5", 
+             "id": "1",
+             "price": "R200000"
+            },
+        {
+            "title": "Revant Apartment",
+            "img": "https://i.postimg.cc/nr2j709N/house2.jpg",
+             "Area": "Joburg",
+              "bedrooms": "5",
+               "id": "2",
+               "price": "R550000"
+               
+            },
+        {
+            "title": "Stylish Studio",
+            "img": "https://i.postimg.cc/nrXbYLXZ/house3.jpg",
+             "Area": "Durban",
+              "bedrooms": "2", 
+              "id": "3",
+              "price": "R670000"
+            },
+            {
+                "title": "Stylish Studio",
+                "img": "https://i.postimg.cc/PxZFt8vC/house4.jpg",
+                 "Area": "Limpopo",
+                  "bedrooms": "4", 
+                  "id": "3",
+                  "price": "R4120000"
+                }
+     ]
+            
+
+}
