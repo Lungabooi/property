@@ -9,7 +9,7 @@ import PropertyCard from "../components/PropertyCard.vue";
 
 
 export default {
-    components: { PropertyCard,},
+    components: { PropertyCard},
     data() {
         return{
             properties:[]

@@ -1,12 +1,12 @@
 <template>
   <div class="home">
-    
-    {{heading}}
     <img alt="Vue logo" src="../assets/Shop.jpg">
+    <h1> </h1>
     
   </div>
 </template>
 <script>
+
 export default {
     
 }

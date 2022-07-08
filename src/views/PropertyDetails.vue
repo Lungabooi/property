@@ -1,7 +1,7 @@
 <template >
     <div>
         
-        <h1> New Property{{property.title}} </h1>
+        <h1> New Property</h1>
         <p>The Property  id is {{ id }} </p>
     </div>
 </template>
